@@ -1,0 +1,23 @@
+body{
+    background-color: #14213D ;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.sweet-container{
+  
+}
+
+
+h1{
+
+    color: aliceblue;
+
+}
+
+.navbar
